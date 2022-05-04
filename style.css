@@ -1,0 +1,41 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-section {
+    display: flex;
+}
+
+.top-style {
+    font-family: 'Yeseva One', cursive;
+    font-size: 45px;
+    font-weight: 500;
+    border-left: solid 4px;
+    border-color: tomato;
+    padding-left: 7px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.half-width {
+    width: 50%;
+    margin: 5%;
+}
+
+.half-width img {
+    width: 55%;
+    padding-left: 5%;
+}
+
+.button-link {
+    display: inline-block;
+    margin: 10px 0px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    background: tomato;
+    padding: 8px 25px;
+    border-radius: 5px;
+}
