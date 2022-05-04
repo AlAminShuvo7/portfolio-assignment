@@ -4,6 +4,7 @@ body {
 
 .top-section {
     display: flex;
+    margin: 0% 5%;
 }
 
 .top-style {
@@ -38,4 +39,43 @@ body {
     background: tomato;
     padding: 8px 25px;
     border-radius: 5px;
+}
+
+.upper-section {
+    margin: 0% 7%;
+    display: flex;
+}
+
+.upper-header {
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.one-third-width {
+    width: 30%;
+    margin: 0% 2%;
+    border-radius: 15px;
+}
+
+.one-third-width img {
+    width: 40%;
+    padding: 5% 5% 0% 5%;
+}
+
+.one-third-width h3,p {
+    padding: 0% 10%;
+    margin-top: -1%;
+}
+
+#upper-first {
+    background-color: rgb(207, 226, 243);
+}
+
+#upper-second {
+    background-color: rgb(233, 211, 220);
+}
+
+#upper-third {
+    background-color: rgb(235, 231, 200);
 }
