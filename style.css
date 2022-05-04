@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 
 .top-section {
@@ -109,4 +110,17 @@ body {
 .bold-header {
     font-size: 35px;
     font-weight: 700;
+}
+
+.footer-section {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin-bottom: -2%;
+    padding: 1% 0%;
+}
+
+.lob {
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
 }
